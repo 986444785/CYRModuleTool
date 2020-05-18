@@ -1,0 +1,6 @@
+framework module Pods_CYRModuleTools_Tests {
+  umbrella header "Pods-CYRModuleTools_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
